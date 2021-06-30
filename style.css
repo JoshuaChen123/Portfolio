@@ -1,0 +1,52 @@
+p {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+h1{
+    text-align: center;
+}
+
+h2 {
+    font-size: 30px;
+    text-align: center;
+}
+
+h3 {
+    font-size: 25px;
+}
+
+
+.category {
+    font-weight: bold;
+    font-size: 20px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+}
+
+#list {
+    font-weight: bold;
+    background-color: aquamarine;
+    padding: 30px;
+    border: 15px yellowgreen;
+    margin: 20px;
+}
+
+#Panda {
+    width: 200px;
+    length: 200px;
+    
+}
+#Cheetah {
+    width: 200px;
+    length: 200px;
+}
+#Axolotl {
+    width: 200px;
+    length: 200px;
+}
+
+#Animals {
+    font-size: 25px;
+}
